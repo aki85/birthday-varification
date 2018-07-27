@@ -6,8 +6,8 @@ python 3.6.5
 
 # 実行
 ```
-python run 365 23
+python run.py 365 23
 ```
 ```
-python run 365 23 5
+python run.py 365 23 5
 ```
